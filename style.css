@@ -1,4 +1,4 @@
-p{
+/* p{
     color:green;
     background-color: rgba(240, 121, 84, 0.26); 
 
@@ -10,4 +10,37 @@ p{
 
 #jk{
     font-size: 25px;
+} */
+div{
+    height:200px;
+    width:200px;
+    background-color:red;
+    padding:20px;
+    border:1px solid black;
+    margin:100px;
 }
+#box1{
+    height:200px;
+    width:200px;
+    background-color: blue;
+    padding:20px;
+    border:1px solid red;
+    margin:100px;
+}
+#box2{
+    height:200px;
+    width:200px;
+    background-color:rgb(129, 50, 119);
+    padding:20px;
+    border:1px solid rgba(218, 218, 218, 0.288);
+    margin:100px;
+}
+#box3{
+    height:200px;
+    width:200px;
+    background-color:rgb(230, 110, 224);
+    padding:20px;
+    border:1px solid rgb(212, 22, 22);
+    margin:100px;
+}
+
