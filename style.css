@@ -11,7 +11,7 @@
 #jk{
     font-size: 25px;
 } */
-div{
+/* div{
     height:200px;
     width:200px;
     background-color:red;
@@ -42,5 +42,19 @@ div{
     padding:20px;
     border:1px solid rgb(212, 22, 22);
     margin:100px;
+} */
+.container{
+    display flex;
+    height:500px;
+    width:800px;
+    background-color: aqua;
+    border:1px solid black;
+    flex-direction:column;
+    flex-wrap:next line;
 }
-
+.item{
+    height:100px;
+    width:100px;
+    background-color:brown;
+    border:1px solid black;
+}
