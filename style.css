@@ -43,18 +43,28 @@
     border:1px solid rgb(212, 22, 22);
     margin:100px;
 } */
-.container{
-    display flex;
+/* .container{
+    display: flex;
     height:500px;
-    width:800px;
+    width:1000px;
     background-color: aqua;
     border:1px solid black;
-    flex-direction:column;
-    flex-wrap:next line;
-}
+    /* flex-direction:flex;   
+    flex-wrap:wrap;   */
+    /* justify-content:space-around; 
+    /* align-items:center;  */
+    /* gap:20px;  */
+    
+/* } 
 .item{
-    height:100px;
-    width:100px;
+    height:200px;
+    width:200px;
     background-color:brown;
     border:1px solid black;
-}
+    flex-grow:  1;      
+} */
+/* .item2{
+    order: -1;
+    flex-grow:2;
+    align-self:flex-end;
+} */ 
